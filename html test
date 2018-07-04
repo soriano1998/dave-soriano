@@ -1,6 +1,15 @@
-<html>
+<!Doctype HTML>
+<HTML>
+<HEAD>
+  <TITLE>HTML Test 01</TITLE>
+</HEAD>
 
-
-
-
-</html>
+<BODY>
+   <h1>Hello world 01</h1>
+   <h2>Hello world 02</h2>
+   <h3>Hello world 03</h3>
+   <h4>Hello world 04</h4>
+   <h5>Hello world 05</h5>
+   <h6>Hello world 06</h6>
+</BODY>
+</HTML>

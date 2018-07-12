@@ -1,0 +1,29 @@
+<!Doctype HTML>
+<HTML>
+<HEAD>
+	<TITLE>HTML Table Tag 2</TITLE>
+</HEAD>
+<BODY>
+	<table border="5">
+		<tr>
+			<td>&nbsp</td>
+			<td>Mon</td>
+			<td>Tue</td>
+			<td>Wed</td>
+		</tr>
+		<tr>
+			<td rowspan="3">TIME</td>
+			<td>Computer</td>
+			<td>Korea</td>
+			<td>English</td>
+		</tr>
+		<tr>
+			<td colspan="3">LUNCH TIME</td>
+		</tr>
+		<tr>
+			<td>Math</td>
+			<td colspan="2">Tagalog</td>
+		</tr>
+	</table>
+</BODY>
+</HTML>

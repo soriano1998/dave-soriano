@@ -1,0 +1,21 @@
+<!Doctype HTML>
+<HTML>
+<HEAD>
+	<TITLE>HTML TEXT basic page</TITLE>
+</HEAD>
+
+<BODY>
+	<h1>ol tag(Onordered HTML List)</h1>
+	<ol>
+		<li>Facebook</li>
+		<li>Twitter</li>
+		<li>Google</li>
+	</ol>
+	<h2>ul tag(Unordered HTML List)</h2>
+	<ul>
+		<li>Facebook</li>
+		<li>Twitter</li>
+		<li>Google</li>
+	</ul>
+</BODY>
+</HTML>

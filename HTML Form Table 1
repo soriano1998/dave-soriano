@@ -1,0 +1,15 @@
+<!Doctype html>
+<html lang="en">
+<head>
+	<title>Document</title>
+</head>
+<body>
+	<form method="get">
+		Name : <input name="nameid"> <br />
+		Password : <input name="pass"> <br />
+		Email : <input name="email1"> @ <input name="email2">
+
+		
+	</form>
+</body>
+</html>

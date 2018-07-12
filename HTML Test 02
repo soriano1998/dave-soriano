@@ -1,0 +1,37 @@
+<!Doctype HTML>
+<HTML>
+<HEAD>
+	<TITLE>HTML Test 02 </TITLE>
+</HEAD>
+
+<BODY>
+	text tag test<br />
+	<b>b tag test</b><br />
+	<i>i tag test</i><br />
+	small tag test<br />
+	<small>small tag test</small><br />
+	sub tag test <sub>sub tag test</sub><br />
+	sup tag test <sup>sup tag test</sup><br />
+	<ins>ins tag test</ins><br />
+	<del>del tag test</del><br />
+	<br />
+	<hr />
+	<br />
+	<h1>HTML TEXT basic page</h1>
+	<h2>HTML Display</h2>
+	<p>Definition and Usage. <br />
+	The < p > tag defines a paragraph. <br />
+	Browsers automatically add some space (margin) before and after each < p > element.</p>
+
+	<p>
+	<i>Large</i> or <small>small</small>screens,<br />
+
+	and <sub>resized</sub> windows
+	<sup>will</sup> create <br />
+
+	<ins>different</ins> result.<br />
+
+	<del>Any number of spaces, and any.....</del>
+	</p>
+</BODY>
+</HTML>
